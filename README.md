@@ -25,14 +25,13 @@ A resposta será uma lista de cinemas na cidade especificada, juntamente com sua
 
 ## Execução
 
-Para executar a API localmente, certifique-se de ter o Python, Flask e google-generativeai(e sua respectiva API KEY) instalados em seu ambiente. Em seguida, você pode iniciar o servidor Flask executando o seguinte comando: main.py
+Para executar a API localmente, certifique-se de ter o Python, Flask e google-generativeai(e sua respectiva API KEY) instalados em seu ambiente. Em seguida, você pode iniciar o servidor Flask executando o seguinte comando:
+```yml
+python main.py
+```
 
 
 Isso iniciará o servidor na porta padrão 5000. Você pode acessar os endpoints da API usando um cliente HTTP ou um navegador da web.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 
 
