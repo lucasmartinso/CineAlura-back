@@ -1,4 +1,4 @@
-# CineAlura-back
+# CineAlura 🎥​🎬
 
 # API de Recomendação de Filmes e Séries e Consulta de Cinemas
 
